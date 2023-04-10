@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-Skills: Laravel / WordPress / JavaScript / PHP / HTML / CSS / BOOTSTRAP
+Skills: Laravel / WordPress / JavaScript / PHP / HTML / CSS / BOOTSTRAP / Adobe Illustrator / Adobe Photoshop
 
 - 🔭 I’m currently working on this page. 
 
